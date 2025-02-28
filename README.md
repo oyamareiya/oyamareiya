@@ -1,10 +1,6 @@
 ### MyProfile
 <table>
   <tr>
-    <!-- Start -->
-    <td>
-      <img alt="Starts" height="120px" src="https://github-readme-stats.vercel.app/api?username=serna37&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-    </td>
     <!-- Lang -->
     <td>
       <img alt="Top Langs" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serna37&layout=compact&count_private=true&theme=onedark" />
